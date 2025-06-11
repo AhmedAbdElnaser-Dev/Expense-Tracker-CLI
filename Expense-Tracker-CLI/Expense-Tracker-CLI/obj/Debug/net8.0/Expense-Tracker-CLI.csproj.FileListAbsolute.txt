@@ -1,0 +1,15 @@
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\bin\Debug\net8.0\Expense-Tracker-CLI.exe
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\bin\Debug\net8.0\Expense-Tracker-CLI.deps.json
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\bin\Debug\net8.0\Expense-Tracker-CLI.runtimeconfig.json
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\bin\Debug\net8.0\Expense-Tracker-CLI.dll
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\bin\Debug\net8.0\Expense-Tracker-CLI.pdb
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\obj\Debug\net8.0\Expense-Tracker-CLI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\obj\Debug\net8.0\Expense-Tracker-CLI.AssemblyInfoInputs.cache
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\obj\Debug\net8.0\Expense-Tracker-CLI.AssemblyInfo.cs
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\obj\Debug\net8.0\Expense-Tracker-CLI.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\obj\Debug\net8.0\Expense-Tracker-CLI.sourcelink.json
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\obj\Debug\net8.0\Expense-Tracker-CLI.dll
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\obj\Debug\net8.0\refint\Expense-Tracker-CLI.dll
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\obj\Debug\net8.0\Expense-Tracker-CLI.pdb
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\obj\Debug\net8.0\Expense-Tracker-CLI.genruntimeconfig.cache
+E:\Programming\C#\Expense-Tracker-CLI\Expense-Tracker-CLI\Expense-Tracker-CLI\obj\Debug\net8.0\ref\Expense-Tracker-CLI.dll
